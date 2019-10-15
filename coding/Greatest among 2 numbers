@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+int a, b, c;
+printf("Write the first number ");
+scanf("%d", &a);
+printf("Write the second number ");
+scanf("%d", &b);
+c=a-b;
+if(c>0)
+{
+ printf("The number %d is greater than %d", a, b);
+}
+else if(c<0)
+{
+ printf("The number %d is less than %d", a, b);
+}
+else(c==0)
+{
+ printf("The numbers %d and %d are equal", a, b);
+}
+return 0;
+}
