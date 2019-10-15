@@ -10,3 +10,7 @@ Enter your name and details in this format
 [PLACE]: Varanasi,U.P
 [SKILLS]: C and python-learning
 
+[NAME]: Ashish bajpai
+[DOB]: 10/12/2001
+[PLACE]: Lucknow,U.P
+[SKILLS]: C,python,java-learning
