@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int a, n;
+printf("Write the times you want to print Hello World ");
+scanf("%d", &n);
+for(a=1; a<=n; a++);
+{
+ printf("Hello World");
+ printf("\n");
+} 
+return 0;
+}
